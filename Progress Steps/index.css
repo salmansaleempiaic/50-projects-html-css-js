@@ -9,6 +9,11 @@
   box-sizing: border-box;
   text-decoration: none;
 }
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
 .container {
   text-align: center;
   max-width: 100%;
